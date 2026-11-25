@@ -1,0 +1,27 @@
+{
+  "note": "Reference prices taken from the receipts and the architect bill of quantities of a real house build in Kigali (Jun to Jul 2026). Account numbers and names were removed on purpose.",
+  "receipts": {
+    "cement_per_bag_rwf": {"list_price": 16000, "paid": [14800, 14700, 14800], "unloading_fee_per_100_bags": 5000},
+    "rebar_12mm_per_bar_rwf": {"list_price": 16500, "paid": [16000, 16000]},
+    "rebar_8mm_per_bar_rwf": {"list_price": 8700, "paid": [8200]},
+    "timber_imbaho_per_piece_rwf": {"list_price": 3100, "paid": [3100]},
+    "sand_per_load_rwf": {"paid": [670000, 680000, 680000, 680000]},
+    "stones_per_truck_rwf": {"paid": [650000, 650000]},
+    "bricks_ruliba_rwf": {"paid": [1440000]},
+    "watchman_per_day_rwf": 6000
+  },
+  "supplier_discount_observed": {
+    "cement": 0.075,
+    "rebar_12mm": 0.03,
+    "rebar_8mm": 0.057,
+    "muba": 0.065
+  },
+  "boq_phase_budget_rwf": {
+    "preliminary": 4500000,
+    "foundation": 11982500,
+    "elevation": 52180000,
+    "roofing": 3533100,
+    "finishes": 36366174
+  },
+  "boq_total_rwf": 108561774
+}
